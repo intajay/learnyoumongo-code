@@ -10,7 +10,7 @@
  		firstName: process.argv[2],
  		lastName: process.argv[3]
  	};
- 	
+
  	user.insert(obj, function(err, data) {
  		console.log(JSON.stringify(data));
  	});

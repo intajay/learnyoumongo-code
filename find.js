@@ -4,7 +4,6 @@
 
  mongo.connect(url, function(err, db) {
  	var parrots = db.collection('parrots');
-
  	parrots.remove();
 
  	parrots.insert([{
