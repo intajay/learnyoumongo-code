@@ -1,0 +1,23 @@
+{
+  "name": "learnyoumongo-code",
+  "version": "1.0.0",
+  "description": "Sample code for @evanlucas/learnyoumongo MongoDB workshop",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intajay/learnyoumongo-code.git"
+  },
+  "author": "Ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intajay/learnyoumongo-code/issues"
+  },
+  "homepage": "https://github.com/intajay/learnyoumongo-code#readme"
+}
